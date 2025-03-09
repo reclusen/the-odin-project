@@ -1,0 +1,9 @@
+[submodule "landing-page"]
+	path = landing-page
+	url = ../landing-page
+[submodule "odin-recipes"]
+	path = odin-recipes
+	url = ../odin-recipes
+[submodule "mini-exercises"]
+	path = mini-exercises
+	url = ../mini-exercises
