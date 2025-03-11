@@ -7,3 +7,6 @@
 [submodule "mini-exercises"]
 	path = mini-exercises
 	url = ../mini-exercises
+[submodule "rps"]
+	path = rps
+	url = ../rps
