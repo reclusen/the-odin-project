@@ -10,3 +10,6 @@
 [submodule "rps"]
 	path = rps
 	url = ../rps
+[submodule "signup-form"]
+	path = signup-form
+	url = ../signup-form
