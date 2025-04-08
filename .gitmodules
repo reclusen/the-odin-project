@@ -13,3 +13,12 @@
 [submodule "signup-form"]
 	path = signup-form
 	url = ../signup-form
+[submodule "admin-dashboard"]
+	path = admin-dashboard
+	url = ../admin-dashboard/
+[submodule "calculator"]
+	path = calculator
+	url = ../calculator
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = ../etch-a-sketch/
